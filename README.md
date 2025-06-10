@@ -1,3 +1,5 @@
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.moustafa-git)
+
 <h1>Hi 👋, I'm Moustafa Darwish</h1>
 <p>A passionate frontend developer</p>
 <h2>🚀 Languages and Tools I Use</h2>
